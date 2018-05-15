@@ -113,6 +113,7 @@ V.	Random Forest
 VI.	K-Nearest Neighbours
 VII.	Kernel
 VIII.	Naïve Bayes
+
 Unsupervised Learning:
 I.	K-Means Clustering
 II.	Hierarchical Clustering
@@ -122,6 +123,7 @@ II.	Cross-validation
 III.	Dimensionality Reduction
 -	Principal Component Analysis (PCA)
 -	Kernel PCA
+
 Deep Learning
 I.	Artificial Neural Networks
 II.	Convolutional Neural Networks
