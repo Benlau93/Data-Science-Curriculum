@@ -37,8 +37,8 @@ I.	Excel<br />
 ☐ Essential Statistics for Data Analysis using Excel -- edX<br />
 <br />
 II.	Tableau<br />
-☐ Tableau for Beginners/Intermediate/Advanced for Data Science <br />
--- Analytics Vidhya
+☐ Tableau for Beginners/Intermediate/Advanced for Data Science 
+-- Analytics Vidhya<br />
 ☐ Data Science A-Z Visualisation -- Udemy<br />
 ☐ Tableau 10 A-Z -- Udemy<br />
 
