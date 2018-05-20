@@ -9,7 +9,6 @@ Data Science Curriculum
 ---- Month 1 ----
 1.	Introduction to Statistics<br />
 ☐ An Introduction to Statistical Learning -- eBook <br />
-☐ The Elements of Statistical Learning – eBook<br />
 ☐ Think Stats Exploratory Data Analysis – eBook<br />
 ☐ Statistical Thinking for Data Science and Analytics -- edX <br />
 
@@ -20,6 +19,7 @@ Data Science Curriculum
 <br />
 2.	Introduction to Probability<br />
 ☐ Introduction to Probability – The Science of Uncertainty -- edX<br />
+☐ Bayesian Statistics: From Concept to Data Analysis -- Coursera<br />
 
 ---- Month 3 ----
 1.	Linear Algebra<br />
@@ -44,7 +44,7 @@ II.	Tableau<br />
 2.	Introduction to Python<br />
 ☐ Computer Science and Programming Using Python -- edX<br />
 ☐ Complete Python Masterclass – Udemy<br />
-☐ The Python Mega Course: Build 10 Real World Applications -- Udemy<br />
+☐ Introduction to Computation Thinking and Data Science -- edX <br />
 
 ---- Month 5 ----
 1.	Numpy, Pandas and Matplotlib<br />
