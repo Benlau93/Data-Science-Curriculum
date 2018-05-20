@@ -29,7 +29,7 @@ Data Science Curriculum
 ☐ Application of Linear Algebra Part 2 -- edX <br />
 ☐ Mathematics for Machine Learning: Linear Algebra-- Coursera<br />
 <br />
----- Month 4 ----
+---- Month 4 ----<br />
 1.	Data Exploration/ Visualization<br />
 I.	Excel<br />
 ☐ Introduction to Data Analysis using Excel -- edX<br />
