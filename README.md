@@ -20,6 +20,7 @@ Data Science Curriculum
 2.	Introduction to Probability<br />
 ☐ Introduction to Probability – The Science of Uncertainty -- edX<br />
 ☐ Bayesian Statistics: From Concept to Data Analysis -- Coursera<br />
+<br />
 
 ---- Month 3 ----
 1.	Linear Algebra<br />
@@ -27,7 +28,7 @@ Data Science Curriculum
 ☐ Application of Linear Algebra Part 1 -- edX<br />
 ☐ Application of Linear Algebra Part 2 -- edX <br />
 ☐ Mathematics for Machine Learning: Linear Algebra-- Coursera<br />
-
+<br />
 ---- Month 4 ----
 1.	Data Exploration/ Visualization<br />
 I.	Excel<br />
