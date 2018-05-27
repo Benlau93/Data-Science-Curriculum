@@ -9,7 +9,6 @@ Data Science Curriculum
 ---- Month 1 ----
 1.	Introduction to Statistics<br />
 ☐ An Introduction to Statistical Learning -- eBook <br />
-☐ Think Stats Exploratory Data Analysis – eBook<br />
 ☐ Statistical Thinking for Data Science and Analytics -- edX <br />
 
 ---- Month 2 ----
@@ -46,6 +45,7 @@ II.	Tableau<br />
 ☐ Computer Science and Programming Using Python -- edX<br />
 ☐ Complete Python Masterclass – Udemy<br />
 ☐ Introduction to Computation Thinking and Data Science -- edX <br />
+☐ Think Stats Exploratory Data Analysis – eBook<br />
 
 ---- Month 5 ----
 1.	Numpy, Pandas and Matplotlib<br />
