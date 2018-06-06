@@ -14,7 +14,6 @@ Data Science Curriculum
 ---- Month 2 ----<br/>
 1.	Calculus<br />
 ☐ Mathematics for Machine Learning: Multivariate Calculus -- Coursera <br />
-☐ Multivariable Calculus -- Khan academy<br />
 <br />
 2.	Introduction to Probability<br />
 ☐ Introduction to Probability – The Science of Uncertainty -- edX<br />
@@ -38,7 +37,7 @@ Data Science Curriculum
 <br/>
 2.	Introduction to Python<br />
 ☐ Computer Science and Programming Using Python -- edX<br />
-☐ Complete Python Masterclass – Udemy<br />
+☐ Complete Python Bootcamp: Go from Zero to Hero in Python 3 -- Udemy <br/>
 ☐ Introduction to Computation Thinking and Data Science -- edX <br />
 ☐ Think Stats Exploratory Data Analysis – eBook<br />
 <br/>
@@ -62,6 +61,7 @@ Data Science Curriculum
 ☐ Machine Learning by Stanford University -- Coursera<br />
 ☐ Understanding Machine Learning from Theory to Algorithms -- eBook<br />
 ☐ Hands-on Machine Learning with Scikit-Learn and Tensorflow -- eBook<br />
+☐ Python for Data Science and Machine Learning Bootcamp -- Udemy<br />
 <br/>
 ---- Month 7 ----<br />
 Continue from Month 6<br/>
