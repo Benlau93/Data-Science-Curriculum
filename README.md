@@ -27,13 +27,6 @@ Data Science Curriculum
 <br/>
 ---- Month 3 ----<br/>
 <br/>
-1.	Linear Algebra<br/>
-- Linear Algebra -- Khan academy<br/>
-- MIT 18.06 Linear Algebra -- MIT OpenCourseWarev
-- Mathematics for Machine Learning: Linear Algebra-- Coursera<br/>
-<br/>
----- Month 4 ----<br/>
-<br/>
 1.	Data Exploration/ Visualization<br/>
 I.	Excel<br/>
 - Introduction to Data Analysis using Excel -- edX<br/>
@@ -46,13 +39,22 @@ II.	Tableau<br/>
 - Complete Python Bootcamp: Go from Zero to Hero in Python -- Udemy<br/>
 - Introduction to Computation Thinking and Data Science -- edX<br/>
 <br/>
----- Month 5 ----<br/>
+---- Month 4 ----<br/>
 <br/>
 1.	Continue Introduction to Python<br/>
 2.	Python Data Science Library<br/>
 - Python for Data Science and Machine Learning Bootcamp (Section 1 – 13) -- Udemy <br/>
 - Python for Data Analysis -- eBook <br/>
 - Matplotlib Tutorial Series – Graphing in Python -- Sentdex <br/>
+
+<br/>
+---- Month 5 ----<br/>
+<br/>
+1.	Linear Algebra<br/>
+- Linear Algebra -- Khan academy<br/>
+- MIT 18.06 Linear Algebra -- MIT OpenCourseWarev
+- Mathematics for Machine Learning: Linear Algebra-- Coursera<br/>
+
 <br/>
 ---- Month 6 ----<br/>
 <br/>
@@ -69,7 +71,7 @@ Continue from Month 6<br/>
 ---- Month 8 ----<br/>
 <br/>
 1.	Natural Language Processing<br/>
-- Natural Language Processing with Deep Learning -- Stanford (youtube)<br/>
+- NLTK with Python 3 -- Sentdex<br/>
 - Machine Learning A-Z: Hands-On Python & R in Data Science (Section 29)   -- Udemy<br/>
 - Python for Data Science and Machine Learning Bootcamp (Section 24) -- Udemy<br/>
 <br/>
