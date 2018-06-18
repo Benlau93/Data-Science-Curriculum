@@ -52,7 +52,7 @@ II.	Tableau<br/>
 <br/>
 1.	Linear Algebra<br/>
 - Linear Algebra -- Khan academy<br/>
-- MIT 18.06 Linear Algebra -- MIT OpenCourseWarev
+- MIT 18.06 Linear Algebra -- MIT OpenCourseWare<br/>
 - Mathematics for Machine Learning: Linear Algebra-- Coursera<br/>
 
 <br/>
