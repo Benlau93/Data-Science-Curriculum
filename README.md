@@ -1,145 +1,62 @@
 Data Science Curriculum
 
-1.	Introduction to Data Science
- Data Science A-Z: Real-Life Data Science Exercise – Udemy
- An Introduction to Statistical Learning – eBook 
+1.	Introduction to Data Science<br/>
+ Data Science A-Z: Real-Life Data Science Exercise – Udemy<br/>
+ An Introduction to Statistical Learning – eBook <br/>
 
-2.	Statistics
- Statistical Thinking for Data Science and Analytics – edX
-☐Fundamentals of Statistics – MITx 18.650x
+2.	Statistics<br/>
+ Statistical Thinking for Data Science and Analytics – edX<br/>
+☐Fundamentals of Statistics – MITx 18.650x<br/>
 
-3.	Probability
-☐ Introduction to Probability – The Science of Uncertainty – MITx: 6.041x
+3.	Probability<br/>
+☐ Introduction to Probability – The Science of Uncertainty – MITx: 6.041x<br/>
 
-4.	Calculus
- Multivariable Calculus – Khan academy
- Mathematics for Machine Learning: Multivariate Calculus – Coursera 
+4.	Calculus<br/>
+ Multivariable Calculus – Khan academy<br/>
+ Mathematics for Machine Learning: Multivariate Calculus – Coursera <br/>
 
-5.	Linear Algebra
- Linear Algebra – Khan academy
- Essence of Linear Algebra – 3Blue1Brown
- Mathematics for Machine Learning: Linear Algebra – Coursera
-☐ Linear Algebra – MIT 18.06
+5.	Linear Algebra<br/>
+ Linear Algebra – Khan academy<br/>
+ Essence of Linear Algebra – 3Blue1Brown<br/>
+ Mathematics for Machine Learning: Linear Algebra – Coursera<br/>
+☐ Linear Algebra – MIT 18.06<br/>
 
-6.	Python
- Complete Python Bootcamp: Go from Zero to Hero in Python – Udemy
- Introduction to Computer Science and Programming Using Python – MITx: 6.00.1x
-☐ Introduction to Computation Thinking and Data Science – MITx: 6.00.2x
+6.	Python<br/>
+ Complete Python Bootcamp: Go from Zero to Hero in Python – Udemy<br/>
+ Introduction to Computer Science and Programming Using Python – MITx: 6.00.1x<br/>
+☐ Introduction to Computation Thinking and Data Science – MITx: 6.00.2x<br/>
 
-7.	Python Data Science Library
- Python for Data Science and Machine Learning Bootcamp (Section 1 – 13) – Udemy 
-☐ Python for Data Analysis – eBook 
+7.	Python Data Science Library<br/>
+ Python for Data Science and Machine Learning Bootcamp (Section 1 – 13) – Udemy <br/>
+☐ Python for Data Analysis – eBook <br/>
 
-8.	R programming
-☐ Data Analysis for Social Scientists – MITx 14.310x/14.310Fx
-☐The Art of R programming – eBook 
-☐ Data Science Harvard Professional Certificate Program – edx 
+8.	R programming<br/>
+☐ Data Analysis for Social Scientists – MITx 14.310x/14.310Fx<br/>
+☐The Art of R programming – eBook <br/>
+☐ Data Science Harvard Professional Certificate Program – edx <br/>
 
-9.	Tableau
-☐ Tableau 10 A-Z – Udemy
+9.	Tableau<br/>
+☐ Tableau 10 A-Z – Udemy<br/>
 
-10.	Machine Learning
-☐ Machine Learning A-Z: Hands-On Python & R in Data Science – Udemy
-☐ Machine Learning with Python: From Linear Models to Deep Learning – MITx 6.86x
-☐ Machine Learning by Stanford University – Coursera
-☐ Introduction to Machine Learning for Coders – fast.ai
-☐ Hands-On Machine Learning with Scikit-Learn & TensorFlow – eBook 
+10.	Machine Learning<br/>
+☐ Machine Learning A-Z: Hands-On Python & R in Data Science – Udemy<br/>
+☐ Machine Learning with Python: From Linear Models to Deep Learning – MITx 6.86x<br/>
+☐ Machine Learning by Stanford University – Coursera<br/>
+☐ Introduction to Machine Learning for Coders – fast.ai<br/>
+☐ Hands-On Machine Learning with Scikit-Learn & TensorFlow – eBook <br/>
 
-11.	Deep Learning
-☐ Deeplearning.ai – Coursera 
-☐ Practical Deep Learning for Coders – fast.ai
-☐ Deep Learning by Ian Goodfellow et al. – eBook
+11.	Deep Learning<br/>
+☐ Deeplearning.ai – Coursera <br/>
+☐ Practical Deep Learning for Coders – fast.ai<br/>
+☐ Deep Learning by Ian Goodfellow et al. – eBook<br/>
 
-12.	Artificial Intelligence
-☐ Introduction to Computer Vision by Georgia Institute of Technology – Udacity
-☐ Convolutional Neural Networks for Visual Recognition – Stanford CS231n
-☐ Natural Language Processing with Deep Learning – Stanford CS224n
+12.	Artificial Intelligence<br/>
+☐ Introduction to Computer Vision by Georgia Institute of Technology – Udacity<br/>
+☐ Convolutional Neural Networks for Visual Recognition – Stanford CS231n<br/>
+☐ Natural Language Processing with Deep Learning – Stanford CS224n<br/>
 
-13.	Additional resources
-☐The Elements of Statistical Learning – eBook 
-☐ Applied Predictive Modelling – eBook 
-
-
-
-
-
-
-
-
-Appendix
-Maths Fundamental
-I.	Statistic
-i.	Descriptive Statistic
-ii.	Inferential Statistic
-iii.	Bayesian Statistic
-II.	Probability
-III.	Calculus
-i.	Multivariable Calculus
-ii.	Optimization
-IV.	Linear Algebra
-i.	Vector/Matrix Operation
-ii.	Linear Transformation/Linear Equation
-iii.	Coordinate System
-iv.	Eigenvector, Eigenvalues
-
-Python Essential Library
-I.	NumPy
-II.	Pandas
-III.	SciPy
-IV.	Matplotlib
-V.	Seaborn
-VI.	Scikit-Learn
-VII.	Keras
-VIII.	TensorFlow
-IX.	NLTK
-X.	Statsmodels
-
-
-
-Data Science Process
-I.	Data Collection
-II.	Data Pre-processing
-i.	Missing Data
-ii.	Categorical Data
-iii.	Data Transformation
-iv.	Feature Selection
-v.	Training and Testing Sets
-III.	Data Visualisation/Exploration
-i.	Python
-o	Matplotlib
-o	Seaborn
-ii.	Tableau
-iii.	Exploratory Analysis
-IV.	Model Development
-i.	Model Selection
-ii.	Model Training
-iii.	Model Validation
-
-Machine Learning
-Supervised Learning:
-I.	Linear Regression
-II.	Logistic Regression
-III.	Support Vector Machine
-IV.	Decision Tree
-V.	Random Forest
-VI.	K-Nearest Neighbours
-VII.	Kernel
-VIII.	Naïve Bayes
-Unsupervised Learning:
-I.	K-Means Clustering
-II.	Hierarchical Clustering
-Model Selection:
-I.	Evaluating Models Performance
-II.	Cross-validation
-III.	Dimensionality Reduction
--	Principal Component Analysis (PCA)
--	Kernel PCA
-Deep Learning
-I.	Artificial Neural Networks
-II.	Convolutional Neural Networks
-III.	Recurrent Neural Networks
-Artificial Intelligence
-I.	Natural Language Processing
-II.	Computer Vision
+13.	Additional resources<br/>
+☐The Elements of Statistical Learning – eBook <br/>
+☐ Applied Predictive Modelling – eBook <br/>
 
 
