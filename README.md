@@ -9,7 +9,7 @@ Data Science Curriculum
 ☐Fundamentals of Statistics – MITx 18.650x<br/>
 
 3.	Probability<br/>
-☐ Introduction to Probability – The Science of Uncertainty – MITx: 6.041x<br/>
+☐ Probability – The Science of Uncertainty and Data – MITx: 6.431x<br/>
 
 4.	Calculus<br/>
  Multivariable Calculus – Khan academy<br/>
